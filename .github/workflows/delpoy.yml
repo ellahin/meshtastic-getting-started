@@ -26,6 +26,8 @@ jobs:
         run: cargo install --git https://github.com/Doctave/doctave --tag 0.4.2
       - name: Build site
         run: doctave build
+      - name: Inject analytics
+        run:  sed -i '/^<head>/a <script defer data-domain="meshtastic.ellahin.com" src="https://plausible.ellahin.com/js/script.js"></script>' site/*.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:

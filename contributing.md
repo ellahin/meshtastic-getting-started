@@ -19,6 +19,7 @@ However, you will be asked to make some changes to your pull request before it w
 1. Make sure your writing is polite and respectful
 2. Please keep language gender neutral
 3. If you link to any external resources make sure they aline with our code of conduct
+4. Do not add any links that include affiliate commissions
 
 # Getting Started
 This wiki is built with [Doctave](https://github.com/Doctave/doctave).

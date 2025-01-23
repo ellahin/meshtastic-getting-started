@@ -2,4 +2,5 @@
 title: "Getting Started with Meshtastic"
 navigation:
   - path: docs/README.md
+  - path: docs/batteries.md
   - path: docs/hardware.md

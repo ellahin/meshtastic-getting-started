@@ -10,7 +10,7 @@ The website is still very work in progress.
 For any questions please reach out to the [Canberra Meshtastic Community](https://discord.com/invite/4QgFsuaC3Z).
 
 ### Pages and documentation that needs to be made:
-- [ ] Batteries
+- [x] Batteries
 - [ ] Software
     - [ ] Api's
     - [ ] Monitoring

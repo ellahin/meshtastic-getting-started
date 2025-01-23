@@ -1,6 +1,10 @@
 ---
 title: Hardware
 ---
+{% error This is site in progress and is not yet complete. %}
+If you have any question feel free to join the [Canberra Meshtastic Community](https://discord.com/invite/4QgFsuaC3Z) on Discord.
+{% end %}
+
 # __Hardware__
 The thing that makes Meshtastic work are microcontrollers with Lora boards.
 Without it, you will not be able to communicate with other Meshtastic devices.

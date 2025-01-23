@@ -1,7 +1,9 @@
 ---
 title: Getting Started 
 ---
-
+{% error This is site in progress and is not yet complete. %}
+If you have any question feel free to join the [Canberra Meshtastic Community](https://discord.com/invite/4QgFsuaC3Z) on Discord.
+{% end %}
 # Getting started
 As with any hobby, there are a lot of rabbit holes to go down and we've all spent a lot of money and time going down them to figure out what's good and what's not.
 This post is to help people get started and be pointed in the right direction.

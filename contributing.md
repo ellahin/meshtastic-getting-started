@@ -28,6 +28,12 @@ Once you have [Doctave](https://github.com/Doctave/doctave) make a [fork of the 
 
 Now that you have a copy of the repository on your computer you can open it in your favourite text editor. For information on formatting and features please review the [Doctave documentation](https://cli.doctave.com/features/markdown).
 
+To preview changes use the below command to build website localy, the website will autoreload when you save a file.
+
+```
+$ doctave serve
+```
+
 When you are happy with your changes you will need to [add](https://github.com/git-guides/git-add), [commit](https://github.com/git-guides/git-commit) and [push](https://github.com/git-guides/git-push) your changes to your repo, then create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) for a community manager to approve.
 
 Once approved and merged into the main repo the website will automatically be updated with the changes.

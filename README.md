@@ -26,8 +26,8 @@ For any questions please reach out to the [Canberra Meshtastic Community](https:
     - [ ] Water proof enclosures 
     - [ ] Location planning
 - [ ] Community projects
-- [ ] Community recommended hardware
-    - [ ] Antennas
+- [x] Community recommended hardware
+    - [x] Antennas
     - [ ] Batteries
     - [ ] Cases and cable crimps
     - [ ] Connectors and cables

@@ -50,5 +50,5 @@ If you want to remove a testimonial you have provide please make an [issue](http
 
 > [!CAUTION]
 > We will only remove the testimonials on request of the testimonial holder.
-> If you make an issue or pull request against a testimonial that is not your own it will be denied
+> If you make an issue or pull request against a testimonial that is not your own it will be denied.
 > Repeated attempts will be meet with repercussions.

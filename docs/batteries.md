@@ -14,11 +14,11 @@ Below is a general list of things to keep an eye on when working with batteries.
 It doesn't matter if it's your first time or your hundredth time, you always need to check the polarities when plugging in batteries.
 Different revisions of the same device or different purchases of the same battery can have different wires connected to the same plugs.
 Before plugging in a battery triple check which connectors are positive and negative on both the battery and device.
-If you cross the positive and negative in a best case senario your device is dead, at a worse case senario your battery can catch on fire.
+If you cross the positive and negative in a best case scenario your device is dead, at a worse case scenario your battery can catch on fire.
 
 This cannot be stated enough **CHECK THE POLARITY**.
 
-## Check for protection cirtcuts
+## Check for protection circuits
 If you are sourcing Li-ion or Lipo batteries not all of them have protection circuits.
 It is highly recommended that you purchase batteries with overcharge/discharge and anti-short circuit protection.
 This will protect you and your devices if you make any mistakes.
@@ -30,7 +30,7 @@ There is not only the scam aspect of the battery might not have as much capacity
 ## Check the battery type
 This is only applicable to Li-Ion and Lipo batteries.
 Most if not all Meshtastic devices are designed to accept a single cell 3.7V battery.
-While you can buy multicell batteries most Meshtastic devices are not designed for higher voltage.
+While you can buy multi cell batteries most Meshtastic devices are not designed for higher voltage.
 
 ## Check your battery voltage
 This is only applicable to Li-Ion and Lipo batteries.
@@ -57,18 +57,18 @@ This shouldn't be an issue for portable/handheld devices but is an issue if you 
 
 
 ## LiPo batteries
-Most Meshtastic devices have charging circuts for LiPo batteries which means you will have access to the battery percent logs.
-These batteries are also generaly flat making them desirable for portable/handheld devices.
+Most Meshtastic devices have charging circuits for LiPo batteries which means you will have access to the battery percent logs.
+These batteries are also generally flat making them desirable for portable/handheld devices.
 
 ## Li-Ion batteries
 Most Meshtastic devices have charging circuits for Li-Ion batteries which means you will have access to the battery percent logs.
 These batteries are generally used are the standard [18650 size](https://en.wikipedia.org/wiki/18650_battery) which can be salvaged from laptops and cars.
-18650 batteries are widely used in the makey community and in things like high powered flashlights.
+18650 batteries are widely used in the maker community and in things like high powered flash lights.
 Because of the form factor of the 18650, there are many housing units you can buy and 3D print making it easy to swap them out and make battery packs with.
 
 # Battery sizing
 The question everyone will ask is how many mAh should I get?
-There is no easy answer to this unfortenly there is no easy answer to this.
+There is no easy answer to this unfortunately there is no easy answer to this.
 Your device will draw vastly different power depending on the design, radio settings, antenna and radio traffic.
 For handheld/portable devices 1,000-2,000 mAh is a good starting point.
 Most solar devices will have 6,000+ mAh batteries or battery packs.

@@ -16,7 +16,7 @@ These devices are by no means less capable then any other devices on this list.
 What makes them good starting device is they are widely used, have first class support from meshtastic and most importantly cheap.
 
 ### [Heltech Lora 32 V3](https://www.aliexpress.com/item/1005007752194012.html?spm=a2g0o.productlist.main.5.4b87AdHvAdHvtk&algo_pvid=5a198db4-b864-47ff-a07c-ced66078d83a&algo_exp_id=5a198db4-b864-47ff-a07c-ced66078d83a-2&pdp_npi=4%40dis%21AUD%2158.09%2130.79%21%21%21260.96%21138.32%21%402101ef5e17375454970241241e808a%2112000042088422265%21sea%21AU%212854040288%21X&curPageLogUid=csDpeljGXr73&utparam-url=scene%3Asearch%7Cquery_from%3A)
-![Heltech Lora 32 V3](/images/heltec-lora-v3.png)
+![Heltech Lora 32 V3](/images/hardware/heltec-lora-v3.png)
 Most people will start with this device, it's cheap, comes with a case and antenna and it works.
 The first thing you will notice in the Antanna is horrible, to make the device usable you will need an IPX to SMA adaptor so you can use an Antanna that works.
 Outside of that it's a perfect device to start with.

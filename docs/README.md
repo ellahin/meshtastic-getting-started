@@ -23,7 +23,7 @@ However cool this might sound it'll also make your device a target for authoriti
 # __Safety__
 Meshtastic is by no means dangerous but there a few things that you will need to keep in mind to keep yourself and your devices safe.
 
-## Do not tun on a device without an antanna installed
+## Do not tun on a device without an antenna installed
 If you turn a device on without all antennas attached (some devices have separate antennas for Bluetooth and wifi) you are likely to damage your radio module.
 To perform testing without an antenna or broadcasting use a [dummy load](https://en.wikipedia.org/wiki/Dummy_load) to test without damaging your hardware.
 
@@ -31,7 +31,7 @@ To perform testing without an antenna or broadcasting use a [dummy load](https:/
 Lots of devices and cases will require you to add your own batteries.
 Generally, LIPO and LION batteries are safe, but if you shortcircuit them they can and will catch on fire.
 If you need to rewire contacts or connectors for batteries and you are not 100% confident in your skills stop.
-There are many ways to power a Meshtastic device without handling batties directly.
+There are many ways to power a Meshtastic device without handling batteries directly.
 
 ## General Hiking safety
 A lot of the relays set up in Canberra are on top of mountains which can only be accessed by hiking trails.
@@ -43,3 +43,8 @@ Below are some general safety tips that you should perform at a minimum.
 - Always have water
     - Very basic but also very important. Always have water on you, it's very easy to get dehydrated on a hike and once you do it will make it harder to get back to the start.
 
+# Contributing
+This is a community driven website.
+If you would like to add, edit or update anything please see the Github page.
+
+[https://github.com/ellahin/meshtastic-getting-started](https://github.com/ellahin/meshtastic-getting-started)

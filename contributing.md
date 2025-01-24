@@ -38,3 +38,17 @@ $ doctave serve
 When you are happy with your changes you will need to [add](https://github.com/git-guides/git-add), [commit](https://github.com/git-guides/git-commit) and [push](https://github.com/git-guides/git-push) your changes to your repo, then create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) for a community manager to approve.
 
 Once approved and merged into the main repo the website will automatically be updated with the changes.
+
+# Contributing to Community Hardware Recommendations
+When contributing to the recommendations part of the wiki you will need to copy correct device template from the templates folder.
+Once copied to the correct page fill out all the details.
+
+# Testimonials 
+When adding a testimonial to a page you will need to link it to your github account page.
+
+If you want to remove a testimonial you have provide please make an [issue](https://github.com/ellahin/meshtastic-getting-started/issues) or remove the testimonial and make a pull request.
+
+> [!CAUTION]
+> We will only remove the testimonials on request of the testimonial holder.
+> If you make an issue or pull request against a testimonial that is not your own it will be denied
+> Repeated attempts will be meet with repercussions.

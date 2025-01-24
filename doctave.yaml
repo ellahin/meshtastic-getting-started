@@ -5,3 +5,5 @@ navigation:
   - path: docs/batteries.md
   - path: docs/hardware.md
   - path: docs/software.md
+  - path: docs/communityhardware
+    children: "*"

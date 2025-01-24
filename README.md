@@ -11,12 +11,12 @@ For any questions please reach out to the [Canberra Meshtastic Community](https:
 
 ### Pages and documentation that needs to be made:
 - [x] Batteries
-- [ ] Software
-    - [ ] Api's
-    - [ ] Monitoring
-    - [ ] Radio Planning
-- [ ] Antannas
-    - [ ] Antanna types
+- [x] Software
+    - [x] Api's
+    - [x] Monitoring
+    - [x] Radio Planning
+- [ ] Antennas
+    - [ ] Antenna types
     - [ ] Handled
     - [ ] Stationary
     - [ ] Connectors and cables
@@ -26,6 +26,13 @@ For any questions please reach out to the [Canberra Meshtastic Community](https:
     - [ ] Water proof enclosures 
     - [ ] Location planning
 - [ ] Community projects
+- [ ] Community recommended hardware
+    - [ ] Antennas
+    - [ ] Batteries
+    - [ ] Cases and cable crimps
+    - [ ] Connectors and cables
+    - [ ] Meshtastic Devices
+    - [ ] Solar panels and charging
 
 # Contributing
 Any feedback and help to expand this documentation is greatly appreciated too.

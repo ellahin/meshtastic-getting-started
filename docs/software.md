@@ -34,16 +34,16 @@ Below is a list of libraries built for different languages that you can use in y
 * **Protobuf** (Protocol Buffers) is a free and open-source cross-platform data format used to serialize structured data. [meshtastic protobuf definitions](https://github.com/meshtastic/protobufs)
 
 # Location Tracking
-* One solution is to follow this step by step docker based solution [meshtastic-and-owntracks](https://hackaday.com/2023/10/11/meshtastic-and-owntracks-to-kick-your-google-habit/) requires a JSON functioning device and the owntracks interface is a little clunky but funtional.
+* One solution is to follow this step by step docker based solution [meshtastic-and-owntracks](https://hackaday.com/2023/10/11/meshtastic-and-owntracks-to-kick-your-google-habit/) requires a JSON functioning device and the owntracks interface is a little clunky but functional.
 
 # Monitoring
 Many people in the community like to monitor and keep a close eye on the network to find issues and help with planning out the network.
 Most of these tools require an MQTT server that you connect your Meshtastic node too, some allow you to use blue tooth or USB.
 
 ## Home Assistant
-If you have a home assitant (HASS) instance running at home, you might like to integrate your mesh devices for location, automation or messaging, theres a couple of different options.
+If you have a home assistant (HASS) instance running at home, you might like to integrate your mesh devices for location, automation or messaging, there's a couple of different options.
 
-* [homeassistant-meshtastic](https://github.com/broglep/homeassistant-meshtastic) is protobuf native speaking interface between HA & meshtastic installed and managed through HACS, allows local devices to be added as hubs and nodes to be added for location tracking, but does then use that interface (eg if you are accesssing your device by it's IP address, and then configure this add-on, to that IP, the device can't support two connections on the one interface, and they will constantly fight/disconnect) if you still have the BT interface enabled, you can connect with the phone app (for example).
+* [homeassistant-meshtastic](https://github.com/broglep/homeassistant-meshtastic) is protobuf native speaking interface between HA & meshtastic installed and managed through HACS, allows local devices to be added as hubs and nodes to be added for location tracking, but does then use that interface (eg if you are accessing your device by it's IP address, and then configure this add-on, to that IP, the device can't support two connections on the one interface, and they will constantly fight/disconnect) if you still have the BT interface enabled, you can connect with the phone app (for example).
 
 * [hass_Mtastic_MQTT](https://github.com/kvj/hass_Mtastic_MQTT) also uses protobuf native, but goes via MQTT, most mildly complex HA installs will already have an MQTT server, so the usual MQTT config steps should work, alternately the link shows how to configure pulling public MQTT server data into your local instance.
 

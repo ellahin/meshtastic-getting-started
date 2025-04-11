@@ -18,7 +18,7 @@ However, you will be asked to make some changes to your pull request before it w
 
 1. Make sure your writing is polite and respectful
 2. Please keep language gender neutral
-3. If you link to any external resources make sure they aline with our code of conduct
+3. If you link to any external resources make sure they align with our code of conduct
 4. Do not add any links that include affiliate commissions
 
 # Getting Started
@@ -29,7 +29,7 @@ Once you have [Doctave](https://github.com/Doctave/doctave) make a [fork of the 
 
 Now that you have a copy of the repository on your computer you can open it in your favourite text editor. For information on formatting and features please review the [Doctave documentation](https://cli.doctave.com/features/markdown).
 
-To preview changes use the below command to build website localy, the website will autoreload when you save a file.
+To preview changes use the below command to build website locally, the website will autoreload when you save a file.
 
 ```
 $ doctave serve

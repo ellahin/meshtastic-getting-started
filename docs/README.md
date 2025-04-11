@@ -15,7 +15,7 @@ Gotta get the boring but most important thing out of the way.
 Australia and New Zealand use the frequency of 915–928 MHz for Lora.
 This is not a community preference and we are restricted to these bands by law.
 **Do not purchase or operate Lora or Meshtastic devices on frequencies outside of 915–928 MHz unless you're prepared to deal with the legal consequences.**
-Secondly do not enable any Ham operator settings unless you hold an Amature radio license.
+Secondly do not enable any Ham operator settings unless you hold an Amateur radio license.
 This is again a legal issue.
 One of the things it will allow you to do is increase the radio power past the legal limit for a non-license holder.
 However cool this might sound it'll also make your device a target for authorities and will make it easier to track down the broadcasting location.
